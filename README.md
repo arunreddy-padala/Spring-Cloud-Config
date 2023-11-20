@@ -2,7 +2,7 @@
 
 Languages and Frameworks: Java, Spring Boot, Spring Cloud Config, Actuator, Rest Template 
 
-his project is developed using Java and leverages several frameworks and technologies, including Spring Boot, Spring Cloud Config, Actuator, and RestTemplate.
+This project is developed using Java and leverages several frameworks and technologies, including Spring Boot, Spring Cloud Config, Actuator, and RestTemplate.
 
 A) Insurance Provider Microservice: This microservice is responsible for providing a list of various insurance plans that are available. It utilizes Spring Boot and Spring MVC's REST controller and GET mapping annotations to expose an endpoint that can be accessed by clients. When a client sends a request to the appropriate endpoint, the microservice retrieves the list of insurance plans and returns it as a response.
 
